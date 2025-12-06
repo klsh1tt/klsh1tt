@@ -2,5 +2,6 @@
 
 ## Status  
 ### GitHub Summary
-[![klsh1tt's GitHub stats](https://github-readme-stats.vercel.app/api?username=klsh1tt&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klsh1tt&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![github stats](https://github-readme-stats-coral-omega-98.vercel.app/api/?username=klsh1tt)
+![top langs](https://github-readme-stats-coral-omega-98.vercel.app/api/top-langs/?username=klsh1tt)
+
